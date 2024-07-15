@@ -1,0 +1,3 @@
+ocument.addEventListener('DOMContentLoaded', () => {
+    alert("Selamat datang di CV saya!");
+});
