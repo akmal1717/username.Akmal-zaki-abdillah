@@ -1,1 +1,33 @@
+!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
 
+<div class="w3-container w3-blue">
+    <h1>akmal zaki abdillah</h1>
+    <p>Software enggineer</p>
+</div>
+
+<div class="w3-container">
+    <h2>teknik komputer jaringan /h2>
+    <p>saya mau lanjutkan  computer network enggineer.</p>
+</div>
+
+<div class="w3-container">
+    <h2>saya blom pengalaman kerja </h2>
+    <ul class="w3-ul w3-border">
+        <li class="w3-padding-16">
+            <h3>computer network enggineer</h3>
+            <h4>PT cinta sejati harapan  |  2025 Tahun  -  2026 Tahun Selesai</h4>
+            <p>benarin jaringan internet lokal .</p>
+        </li>
+        <!-- saya belajar js -->
+    </ul>
+</div>
